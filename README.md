@@ -1,2 +1,1 @@
 Palindrome
-Reverse
